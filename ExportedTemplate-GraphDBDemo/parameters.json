@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "Redis_graphdbdemo_name": {
+            "value": null
+        },
+        "storageAccounts_graphdbstor_name": {
+            "value": null
+        },
+        "databaseAccounts_dev_extra_credit_name": {
+            "value": null
+        }
+    }
+}
